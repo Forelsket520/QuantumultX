@@ -89,6 +89,7 @@ https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/QX.snipp
 
 
 [server_remote]
+https://gist.githubusercontent.com/Forelsket520/db0bfe17df9ab410efd233defd37fc70/raw/Aries, tag=Aries, update-interval=-1, opt-parser=true, enabled=true
 
 # > 为避免网易云解锁节点滥用，有需求的请去「墨鱼手记」公众号回复「网易云」获取
 
